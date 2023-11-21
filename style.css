@@ -1,0 +1,55 @@
+header{
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    width: auto;
+}
+
+h1{
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.caixa{
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-size: 20px;
+    padding-bottom: 40px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    border-left: 50px;
+    border-right: 50px;
+    border-top: 30px;
+    border-style: solid;
+
+}
+footer{
+   
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.Copyright{
+    color: white;
+    font-size: 13px;
+    text-decoration: white;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
